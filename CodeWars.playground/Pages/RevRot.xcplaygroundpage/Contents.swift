@@ -1,5 +1,7 @@
 //: [Previous](@previous)
 
+/* https://www.codewars.com/kata/56b5afb4ed1f6d5fb0000991 */
+
 import Foundation
 
 func revRot(_ s: String, _ c: Int) -> String {
@@ -8,11 +10,8 @@ func revRot(_ s: String, _ c: Int) -> String {
         return ""
     }
     
-    return "sup"
+    return s
 }
-
-revRot("123", 4)
-//revrot("123456987654", 6) --> "234561876549"
-
-
 //: [Next](@next)
+
+
