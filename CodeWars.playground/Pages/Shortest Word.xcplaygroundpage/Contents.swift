@@ -11,8 +11,4 @@ func find_short(_ str: String) -> Int {
 
 find_short("bitcoin take over the world maybe who knows perhaps")
 
-// Other options:
-
-
-
 //: [Next](@next)
