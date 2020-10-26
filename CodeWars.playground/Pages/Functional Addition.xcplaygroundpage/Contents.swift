@@ -7,7 +7,5 @@ func add(_ n: Int) -> ((Int) -> Int) {
     return { n + $0 }
 }
 
-add(0)(-15)
-
 
 //: [Next](@next)
