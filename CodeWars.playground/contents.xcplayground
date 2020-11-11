@@ -5,5 +5,11 @@
         <page name='Shortest Word'/>
         <page name='Write Number in Expanded Form'/>
         <page name='Bit Counting'/>
+        <page name='Functional Addition'/>
+        <page name='Sum of odd numbers'/>
+        <page name='Dashatize it'/>
+        <page name='Human readable duration format'/>
+        <page name='Directions Reduction'/>
+        <page name='Roman Numerals Encoder'/>
     </pages>
 </playground>
